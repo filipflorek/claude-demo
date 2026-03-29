@@ -1,0 +1,9 @@
+{
+  "name": "claude-demo",
+  "version": "1.0.0",
+  "description": "A minimal Hello World app for exploring Claude features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
